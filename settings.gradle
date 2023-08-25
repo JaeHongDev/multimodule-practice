@@ -1,1 +1,4 @@
 rootProject.name = 'multimodule-practice'
+
+include("example-api")
+include("example-jpa")
